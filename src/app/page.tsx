@@ -4,6 +4,7 @@ export default function Home() {
       <h1>INI UPDATE HALAMAN HOME</h1>
       <h1>Hello World</h1>
       <h1>INI UPDATE LAGI</h1>
+      <h1>INI UPDATE LAGI 2</h1>
     </div>
   );
 }
