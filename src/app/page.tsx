@@ -3,6 +3,7 @@ export default function Home() {
     <div>
       <h1>INI UPDATE HALAMAN HOME</h1>
       <h1>Hello World</h1>
+      <h1>INI UPDATE LAGI</h1>
     </div>
   );
 }
