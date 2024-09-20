@@ -1,3 +1,6 @@
 export const useLogin = () => {
-    return 'login'
+    const mutate = () => {
+        return 'mutate'
+    }
+    return mutate
 }
